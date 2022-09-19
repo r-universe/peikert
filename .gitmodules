@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gradientPickerD3"]
+	path = gradientPickerD3
+	url = https://github.com/peikert/gradientpickerd3
+	shallow = true
+	registered = true
